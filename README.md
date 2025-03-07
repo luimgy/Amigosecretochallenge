@@ -1,5 +1,6 @@
 
 🎁 Desafío Amigo Secreto  
+![image](https://github.com/user-attachments/assets/f98fd26e-da14-43f6-a48d-4c16c12ee1b6)
 
 ## 📌 Descripción  
 Este proyecto es una aplicación web para realizar sorteos de "Amigo Secreto" de manera sencilla y automática. Permite a los usuarios:  
