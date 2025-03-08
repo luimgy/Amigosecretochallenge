@@ -25,7 +25,7 @@ Este proyecto es una aplicación web para realizar sorteos de "Amigo Secreto" de
 ![image](https://github.com/user-attachments/assets/f98fd26e-da14-43f6-a48d-4c16c12ee1b6)
 
 2️⃣ Ingresa los nombres de los participantes en el campo de entrada.
-![image](https://github.com/user-attachments/assets/7cd303db-ca0b-4b2c-b04b-98a627224a2f)
+![image](https://github.com/user-attachments/assets/4a33d961-e051-491e-9312-1a234c77a829)
 
 3️⃣ Haz clic en el botón "Agregar" para incluirlos en la lista.
 ![image](https://github.com/user-attachments/assets/94c1787d-0888-4f2c-b711-d7afffb267e4)
