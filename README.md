@@ -21,11 +21,24 @@ Este proyecto es una aplicación web para realizar sorteos de "Amigo Secreto" de
 ---
 
 ## 🚀 Instrucciones de Uso  
-1️⃣ Abre el archivo `index.html` en un navegador web.  
-2️⃣ Ingresa los nombres de los participantes en el campo de entrada.  
-3️⃣ Haz clic en el botón "Agregar" para incluirlos en la lista.  
+1️⃣ Abre el archivo `index.html` en un navegador web. 
+![image](https://github.com/user-attachments/assets/f98fd26e-da14-43f6-a48d-4c16c12ee1b6)
+
+2️⃣ Ingresa los nombres de los participantes en el campo de entrada.
+![image](https://github.com/user-attachments/assets/7cd303db-ca0b-4b2c-b04b-98a627224a2f)
+
+3️⃣ Haz clic en el botón "Agregar" para incluirlos en la lista.
+![image](https://github.com/user-attachments/assets/94c1787d-0888-4f2c-b711-d7afffb267e4)
+
+![image](https://github.com/user-attachments/assets/2d694277-03d4-4ea2-a059-ab2790a4f9cc)
+
 4️⃣ Cuando todos los nombres estén en la lista, presiona "Sortear".  
+![image](https://github.com/user-attachments/assets/1a271180-c586-4386-ac2d-f2d5d6e9c6eb)
+
+![image](https://github.com/user-attachments/assets/04045d97-ec0d-4ce9-aa9c-13220a4733ca)
+
 5️⃣ Se asignará un amigo secreto a cada participante automáticamente.  
+![image](https://github.com/user-attachments/assets/1b80e028-0d2c-4700-967e-ea5b05de497f)
 
 ---
 
